@@ -1,9 +1,4 @@
 # frequencyFinder
-This is a small programm written in Rust to convert notes to the matching frequency.
-
-# Documentation for Musical Frequency Calculator
-
-## Overview
 This program calculates the frequency of a musical note based on a given note name and octave, starting from the A4 reference pitch (440 Hz). It also provides the frequencies of intervals relative to the calculated frequency, including major/minor seconds, thirds, fourths, fifths, sixths, and sevenths.
 
 ## Functions and Structs
