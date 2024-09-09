@@ -3,10 +3,9 @@ name = "frequency"
 version = "0.1.0"
 edition = "2021"
 
-[package.metadata]
-ling-args = ["app_res.o"]
-
-
 [dependencies]
+
+[build-dependencies]
+winresource = "0.1.17"
 
 
